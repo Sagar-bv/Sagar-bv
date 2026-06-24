@@ -12,28 +12,29 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year MCA Student
-- 🌱 Currently learning AI Engineering, Machine Learning, and Cloud Technologies
-- 💡 Interested in Computer Vision, NLP, and Generative AI
-- 🔭 Working on AI-powered real-world projects
-- 🎯 Goal: Become an AI Engineer
+- 🎓 Final Year MCA Student (MCA)
+- 🌱 Currently learning AI Engineering, Machine Learning, Cloud Computing, and Generative AI
+- 💡 Interested in Computer Vision, NLP, Deep Learning, and AI-powered applications
+- 🔭 Building real-world AI and Machine Learning projects
+- 🎯 Aspiring AI Engineer
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 - Python
 - Java
 - C
 - JavaScript
 
-### AI & Machine Learning
+### AI / ML
 - NumPy
 - Pandas
 - Scikit-Learn
 - OpenCV
 - NLP
+- Computer Vision
 
 ### Databases
 - MySQL
@@ -48,23 +49,43 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-bv&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-bv&layout=compact)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌾 KrishiMitra AI
-AI-powered multilingual agriculture assistant using Gemini AI.
+AI-powered multilingual agriculture assistant using Gemini AI for crop recommendations, disease detection, weather insights, and farmer assistance.
 
-### 🚦 Traffic Vehicle Detection and Violation Alert System
-Real-time traffic monitoring and violation detection using OpenCV and Computer Vision.
+### 🚦 Traffic Vehicle Detection & Violation Alert System
+Real-time vehicle tracking and traffic violation detection using OpenCV, Computer Vision, and Machine Learning.
 
 ### 🏠 Smart Home Assistant Chatbot
-AI chatbot integrated with Telegram and Dialogflow for smart home automation.
+AI-powered chatbot integrated with Dialogflow and Telegram for smart home automation and voice-based interactions.
+
+---
+
+## 🎯 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Generative AI
+- Cloud Technologies
+- Data Analysis
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
 - GitHub: https://github.com/Sagar-bv
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
 
 ---
 
