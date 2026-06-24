@@ -84,9 +84,6 @@ AI-powered chatbot integrated with Dialogflow and Telegram for smart home automa
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Sagar-bv
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-
----
+- LinkedIn: https://www.linkedin.com/in/sagar-bv/
 
 ⭐ Always learning, building, and improving.
